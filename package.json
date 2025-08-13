@@ -1,5 +1,5 @@
 {
-  "name": "@pensive/apple-mcp",
+  "name": "@yjbae/apple-mcp",
   "version": "0.2.7",
   "module": "index.ts",
   "type": "module",
